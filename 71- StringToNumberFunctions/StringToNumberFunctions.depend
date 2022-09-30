@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577881548 source:e:\cbprojects\98-1\stringtonumberfunctions\main.cpp
+	<stdio.h>
+	<string.h>
+
